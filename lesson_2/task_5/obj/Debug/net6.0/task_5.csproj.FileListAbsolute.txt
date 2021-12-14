@@ -1,0 +1,15 @@
+E:\GBU\git\basics_С#\lesson_2\task_5\bin\Debug\net6.0\task_5.exe
+E:\GBU\git\basics_С#\lesson_2\task_5\bin\Debug\net6.0\task_5.deps.json
+E:\GBU\git\basics_С#\lesson_2\task_5\bin\Debug\net6.0\task_5.runtimeconfig.json
+E:\GBU\git\basics_С#\lesson_2\task_5\bin\Debug\net6.0\task_5.dll
+E:\GBU\git\basics_С#\lesson_2\task_5\bin\Debug\net6.0\ref\task_5.dll
+E:\GBU\git\basics_С#\lesson_2\task_5\bin\Debug\net6.0\task_5.pdb
+E:\GBU\git\basics_С#\lesson_2\task_5\obj\Debug\net6.0\task_5.csproj.AssemblyReference.cache
+E:\GBU\git\basics_С#\lesson_2\task_5\obj\Debug\net6.0\task_5.GeneratedMSBuildEditorConfig.editorconfig
+E:\GBU\git\basics_С#\lesson_2\task_5\obj\Debug\net6.0\task_5.AssemblyInfoInputs.cache
+E:\GBU\git\basics_С#\lesson_2\task_5\obj\Debug\net6.0\task_5.AssemblyInfo.cs
+E:\GBU\git\basics_С#\lesson_2\task_5\obj\Debug\net6.0\task_5.csproj.CoreCompileInputs.cache
+E:\GBU\git\basics_С#\lesson_2\task_5\obj\Debug\net6.0\task_5.dll
+E:\GBU\git\basics_С#\lesson_2\task_5\obj\Debug\net6.0\ref\task_5.dll
+E:\GBU\git\basics_С#\lesson_2\task_5\obj\Debug\net6.0\task_5.pdb
+E:\GBU\git\basics_С#\lesson_2\task_5\obj\Debug\net6.0\task_5.genruntimeconfig.cache
